@@ -1,3 +1,3 @@
 # nagasai
 this is my first repository
-this is my first commi
+this is my first commit
